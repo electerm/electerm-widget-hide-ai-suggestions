@@ -5,6 +5,8 @@
   "description": "Hide the AI suggestion list that appears above the terminal.",
   "main": "main.js",
   "license": "MIT",
+  "author": "ZHAO Xudong",
+  "homepage": "https://github.com/electerm/electerm-widget-hide-ai-suggestions",
   "scripts": {
     "test": "node --test test/*.test.js"
   },
