@@ -1,9 +1,8 @@
 {
   "name": "hide-ai-suggestions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Hide the AI suggestion list that appears above the terminal.",
-  "main": "main.js",
   "license": "MIT",
   "author": "ZHAO Xudong",
   "homepage": "https://github.com/electerm/electerm-widget-hide-ai-suggestions",
@@ -14,10 +13,11 @@
     "id": "hide-ai-suggestions",
     "name": "Hide AI Suggestions",
     "description": "Hide the AI suggestion list that appears above the terminal.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "instance",
     "singleInstance": true,
     "persist": true,
+    "styles": ["style.css"],
     "configs": [
       {
         "name": "autoRun",
